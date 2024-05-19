@@ -7,10 +7,8 @@ I'm a passionate developer with a keen interest in Machine Learning, particularl
 
 📧 Feel free to contact me via [email](mailto:mateoamadoares@gmail.com)
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateo19182&theme=nord_dark" width="60%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateo19182&theme=nord_dark" width="40%">
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateo19182&theme=nord_dark" width="500">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateo19182&theme=nord_dark" width="200">
 
 
 
