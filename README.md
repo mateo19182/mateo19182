@@ -9,11 +9,9 @@ I'm a passionate developer with a keen interest in Machine Learning, particularl
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateo19182&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateo19182&theme=gotham&show_icons=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateo19182&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateo19182&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateo19182&theme=gotham&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateo19182&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateo19182&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateo19182&theme=nord_dark&utcOffset=1)
 
 
 
