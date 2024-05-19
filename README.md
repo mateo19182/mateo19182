@@ -7,4 +7,14 @@ I'm a passionate developer with a keen interest in Machine Learning, particularl
 
 📧 Feel free to contact me via [email](mailto:mateoamadoares@gmail.com)
 
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateo19182&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateo19182&theme=gotham&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateo19182&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateo19182&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateo19182&theme=gotham&utcOffset=3)
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mateo19182)
